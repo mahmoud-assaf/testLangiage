@@ -1,8 +1,4 @@
-package com.mahmoud.kozbara
 
-import android.content.res.Configuration
-import androidx.appcompat.app.AppCompatActivity
-import java.util.*
 
 open class BaseActivity : AppCompatActivity() {
 
